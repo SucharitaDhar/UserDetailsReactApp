@@ -1,0 +1,22 @@
+.App {
+  height: 120vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d68c69;
+}
+
+form {
+  display: block;
+  position: relative;
+}
+
+form .login h2 {
+  padding: 4px;
+  margin-bottom: 30px;
+}
+
+form .login .form-group {
+  width: 300px;
+  margin-bottom: 15px;
+}
